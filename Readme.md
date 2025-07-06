@@ -1,5 +1,4 @@
-# This project is about a video summarizer that is made using python 
+# This project is ain video summarizer that is made using python 
 
-## we used  whisper models for summarizing the youtube video 
+## used whisper models for transcription and summarizing the youtube video 
 
-## we get summarized text of the video 
